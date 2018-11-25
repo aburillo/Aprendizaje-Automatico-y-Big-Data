@@ -3,6 +3,11 @@
 
 # # Práctica 1
 
+# Adrián Burillo Elmaleh
+# Mario Flores Romo
+# Aprendizaje automatico y Big Data
+# Universidad Complutense de Madrid
+
 #     El objetivo de esta práctica es comprobar como con el descenso de gradiente se realiza unas predicciones mas ajustadas a los datos de   entrada, tomando como ejemplos de entrenamiento los datos existentes en los archivos ex1data1.csv y ex1data2.csv.
 
 #  
