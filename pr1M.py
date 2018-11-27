@@ -308,7 +308,7 @@ def PruebasTasaAprendizaje(matrizN):
     print(funGDA2(matrizN, 0.03, 15000, matrizN.shape[0]))
     print("Para una tasa de aprendizaje de 0.01 las tts obtenidas son :")
     print(funGDA2(matrizN, 0.01, 15000, matrizN.shape[0]))
-    print("Para una tasa de aprendizaje de 0.3 las tts obtenidas son :")
+    print("Para una tasa de aprendizaje de 0.1 las tts obtenidas son :")
     return funGDA2(matrizN, 0.1, 15000, matrizN.shape[0])
     
 
